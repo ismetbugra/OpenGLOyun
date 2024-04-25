@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C# projeleri\oyunYılan\oyunYılan\main.cpp(31,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  oyunYılan.vcxproj -> D:\C# projeleri\oyunYılan\x64\Debug\oyunYılan.exe
